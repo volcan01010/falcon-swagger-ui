@@ -44,6 +44,7 @@ Example application:
 Running the example application:
 
 .. code:: bash
+
     pip install falcon gunicorn jinja2
     gunicorn example:app
 
